@@ -1,3 +1,6 @@
 [submodule "RNG-Game"]
     path=RNG-Game
     url="https://github.com/0xsaad76/RNG-Game"
+[submodule "hello-solana"]
+    path=hello-solana
+    url="https://github.com/0xsaad76/hello-solana.git"
