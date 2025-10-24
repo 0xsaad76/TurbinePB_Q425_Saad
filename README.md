@@ -8,7 +8,7 @@ Each week includes practical projects built using **Rust** and **Solana**.
 
 ---
 
-## 🗓️ Week 1 — Foundations
+## 🗓️ Week 1
 
 ### **Rust Projects**
 
