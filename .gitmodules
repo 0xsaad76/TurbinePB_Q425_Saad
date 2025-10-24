@@ -4,3 +4,6 @@
 [submodule "hello-solana"]
     path=hello-solana
     url="https://github.com/0xsaad76/hello-solana.git"
+[submodule "pomodoro-timer"]
+	path = pomodoro-timer
+	url = https://github.com/0xsaad76/pomodoro-timer.git
